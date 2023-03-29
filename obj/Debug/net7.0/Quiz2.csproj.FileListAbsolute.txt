@@ -1,0 +1,15 @@
+D:\Academic\MDT112\Quiz2\bin\Debug\net7.0\Quiz2.exe
+D:\Academic\MDT112\Quiz2\bin\Debug\net7.0\Quiz2.deps.json
+D:\Academic\MDT112\Quiz2\bin\Debug\net7.0\Quiz2.runtimeconfig.json
+D:\Academic\MDT112\Quiz2\bin\Debug\net7.0\Quiz2.dll
+D:\Academic\MDT112\Quiz2\bin\Debug\net7.0\Quiz2.pdb
+D:\Academic\MDT112\Quiz2\obj\Debug\net7.0\Quiz2.csproj.AssemblyReference.cache
+D:\Academic\MDT112\Quiz2\obj\Debug\net7.0\Quiz2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academic\MDT112\Quiz2\obj\Debug\net7.0\Quiz2.AssemblyInfoInputs.cache
+D:\Academic\MDT112\Quiz2\obj\Debug\net7.0\Quiz2.AssemblyInfo.cs
+D:\Academic\MDT112\Quiz2\obj\Debug\net7.0\Quiz2.csproj.CoreCompileInputs.cache
+D:\Academic\MDT112\Quiz2\obj\Debug\net7.0\Quiz2.dll
+D:\Academic\MDT112\Quiz2\obj\Debug\net7.0\refint\Quiz2.dll
+D:\Academic\MDT112\Quiz2\obj\Debug\net7.0\Quiz2.pdb
+D:\Academic\MDT112\Quiz2\obj\Debug\net7.0\Quiz2.genruntimeconfig.cache
+D:\Academic\MDT112\Quiz2\obj\Debug\net7.0\ref\Quiz2.dll
